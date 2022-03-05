@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "yandex.s3": {
+      "commandName": "Project"
+    }
+  }
+}

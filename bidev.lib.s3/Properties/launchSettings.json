@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "bidev.lib.s3": {
+      "commandName": "Project"
+    }
+  }
+}
