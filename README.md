@@ -2,7 +2,7 @@
 S3 utils provide simple set of methods to communicate with any object storage, like Google, Yandex, AWS, Selectel etc. to upload or download files/dictionaries with cmd without complete aws cli.
 
 
-## The smallest heading:
+## Common usage:
 ### Uploading single file:
 ```cmd
 bidev.s3 upload file <<full file name>> --service_url ex. https://storage.yandexcloud.net>> --access_key <<your access key from object storage>> --secret_key <<your secret key from object storage>> --bucket <<bucket name>> --path <<path in bucket>>
